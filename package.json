@@ -1,0 +1,10 @@
+{
+  "name": "com.xtx0.b-profiler-tools",
+  "version": "0.0.1",
+  "unity": "2018.4",
+  "displayName": "BProfilerTools",
+  "description": "性能分析辅助脚本",
+  "author": "Ben",
+  "dependencies": {
+  }
+}
